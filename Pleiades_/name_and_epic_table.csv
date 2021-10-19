@@ -1,0 +1,10 @@
+Name;Vmag;Sp. Type;EPIC ID;RA (J2000);Dec (J2000);MASK;Comments
+Alcyone;2.986;B7III;200007767;166.66825;-23.45521;LC Halo;\tablenotemark{a}
+Atlas;3.763;B8III;200007768;167.01367;-23.23443;LC Halo;\tablenotemark{a}
+Electra;3.851;B6IIIe;200007769;166.18038;-23.8486;LC Halo;\tablenotemark{a}
+Merope;4.305;;200007770;166.56992;-23.74919;LC Halo;\tablenotemark{a}
+Maia;4.305;;200007771;166.17066;-23.51451;LC Halo;\tablenotemark{a}
+Taygeta;4.448;;200007772;165.98388;-23.53459;LC Halo;\tablenotemark{a}
+Pleione;5.192;;200007773;166.95672;-23.16939;LC Halo;\tablenotemark{a}
+gam Tau;3.474;;200007765;179.08380;-23.81548;LC Halo;
+del1 Tau;3.585;G9.5IIICN0.5;200007766;178.01542;-22.00856;LC Halo;
